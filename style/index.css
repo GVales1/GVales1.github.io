@@ -1,0 +1,103 @@
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+  
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+  
+.merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+  
+.merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+  
+.merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+}
+  
+.para {
+    font-size: 18px;
+    background-color: rgb(218, 215, 205);
+}
+.desc {
+    width: 200px;
+}
+.contact {
+    background-color: rgb(218, 215, 205);
+}
+.me {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.intro {
+    margin-top: 120px;
+    margin-bottom: 25px;
+    color: rgb(32, 51, 42);
+    font-size: 40px;
+}
+.head {
+    color: rgb(32, 51, 42);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 25x;
+}
+.page {
+    background-color: rgb(163, 177, 138);
+}
+
+.footer {
+    background-color: rgb(37, 38, 50);
+}
+.ok {
+    margin: 15px 15px 15px 0px;
+}
+.idea {
+    margin-bottom: 25px;
+}
+.nav {
+    font-size: 19px;
+}
+.space {
+    background-color: rgb(218, 215, 205);
+    height: 25px;
+}
+.spacer {
+    background-color: rgb(32, 51, 42);
+    height: 25px;
+}
+.first {
+    background-color: rgb(218, 215, 205);
+    margin: 50px;
+}
+
