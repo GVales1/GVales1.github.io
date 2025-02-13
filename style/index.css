@@ -78,6 +78,7 @@
 
 .footer {
     background-color: rgb(37, 38, 50);
+    color: rgb(218, 215, 205);
 }
 .ok {
     margin: 15px 15px 15px 0px;
@@ -100,4 +101,3 @@
     background-color: rgb(218, 215, 205);
     margin: 50px;
 }
-
